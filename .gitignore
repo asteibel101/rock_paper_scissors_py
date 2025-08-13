@@ -1,0 +1,45 @@
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Editor-specific files
+.idea/ # PyCharm
+.vscode/ # VS Code
+*.sublime-workspace # Sublime Text
+*.swp # Vim swap files
+
+# Operating System files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Test and coverage reports
+.coverage
+.pytest_cache/
+htmlcov/
+nosetests.xml
+coverage.xml
+
+# Logs and databases
+*.log
+db.sqlite3 # Django default database
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Configuration files (if sensitive or local)
+local_settings.py
