@@ -37,5 +37,5 @@ https://wrpsa.com/
 
 ```bash
 git clone https://github.com/asteibel101/rock_paper_scissors_py.git
-cd rock-paper-scissors
+cd rock_paper_scissors
 ```
